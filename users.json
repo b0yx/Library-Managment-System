@@ -1,8 +1,14 @@
 [
     {
         "user_id": 1,
-        "user_name": "spark",
+        "user_name": "aloosh",
         "password": "1234",
-        "status": "active"
+        "status": "disactive"
+    },
+    {
+        "user_id": 2,
+        "user_name": "hamad",
+        "password": "1234",
+        "status": "disactive"
     }
 ]
