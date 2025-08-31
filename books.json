@@ -1,0 +1,44 @@
+[
+    {
+        "book_id": 1,
+        "title": "khalid",
+        "author": "khalid",
+        "status": "Available"
+    },
+    {
+        "book_id": 2,
+        "title": "poor mom",
+        "author": "khalid",
+        "status": "Available"
+    },
+    {
+        "book_id": 3,
+        "title": "poor mom",
+        "author": "khalid",
+        "status": "Available"
+    },
+    {
+        "book_id": 4,
+        "title": "poor mom",
+        "author": "ahmos",
+        "status": "Available"
+    },
+    {
+        "book_id": 5,
+        "title": "poor mom",
+        "author": "ahmos",
+        "status": "Available"
+    },
+    {
+        "book_id": 6,
+        "title": "mmm",
+        "author": "ddd",
+        "status": "Available"
+    },
+    {
+        "book_id": 7,
+        "title": "poor mom",
+        "author": "ahmos",
+        "status": "Available"
+    }
+]
